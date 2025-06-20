@@ -53,6 +53,8 @@ git clone https://github.com/your-username/resume-parser-app.git
 
 cd resume-parser-app
 
+create a virtual environment then run the next command
+
 pip install -r requirements.txt
 
 Or manually install:
